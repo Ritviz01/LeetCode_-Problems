@@ -58,11 +58,13 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -72,4 +74,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
+## Array
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
