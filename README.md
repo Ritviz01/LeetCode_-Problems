@@ -61,6 +61,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
