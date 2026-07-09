@@ -78,10 +78,12 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
