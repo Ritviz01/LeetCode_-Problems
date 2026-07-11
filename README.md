@@ -89,6 +89,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -98,6 +99,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 ## Counting
 |  |
 | ------- |
