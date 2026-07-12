@@ -65,6 +65,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
@@ -89,6 +90,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -104,4 +106,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
