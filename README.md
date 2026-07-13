@@ -110,4 +110,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
