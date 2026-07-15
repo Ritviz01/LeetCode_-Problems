@@ -71,6 +71,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
@@ -93,6 +94,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
+| [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 ## Brainteaser
 |  |
 | ------- |
