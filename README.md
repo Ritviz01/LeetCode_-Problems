@@ -70,6 +70,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
@@ -88,6 +89,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
