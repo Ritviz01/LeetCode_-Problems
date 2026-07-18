@@ -73,6 +73,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3794-reverse-string-prefix) |
@@ -118,6 +119,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Database
 |  |
 | ------- |
