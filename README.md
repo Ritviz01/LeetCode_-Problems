@@ -70,6 +70,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -110,6 +111,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting
 |  |
 | ------- |
