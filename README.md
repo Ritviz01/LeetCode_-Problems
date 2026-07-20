@@ -79,6 +79,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +104,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
+| [3894-traffic-signal-color](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
 |  |
 | ------- |
