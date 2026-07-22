@@ -66,6 +66,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -123,10 +124,19 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Database
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
