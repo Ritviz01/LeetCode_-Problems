@@ -96,6 +96,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -147,4 +148,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
