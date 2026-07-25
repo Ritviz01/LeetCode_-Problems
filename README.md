@@ -99,12 +99,14 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3894-traffic-signal-color) |
@@ -141,4 +143,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
