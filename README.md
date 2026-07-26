@@ -106,6 +106,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
