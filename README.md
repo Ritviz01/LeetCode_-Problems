@@ -85,6 +85,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 ## Simulation
@@ -153,4 +154,16 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
