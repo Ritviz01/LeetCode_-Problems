@@ -168,4 +168,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
