@@ -75,6 +75,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -135,6 +136,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Database
 |  |
