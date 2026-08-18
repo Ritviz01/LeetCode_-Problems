@@ -106,6 +106,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
@@ -174,4 +176,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1791-find-center-of-star-graph) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
