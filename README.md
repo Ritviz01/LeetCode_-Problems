@@ -107,6 +107,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [2396-strictly-palindromic-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
 | [3894-traffic-signal-color](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3895-count-digit-appearances) |
 ## Brainteaser
 |  |
 | ------- |
