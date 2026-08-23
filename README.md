@@ -74,6 +74,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1678-goal-parser-interpretation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -102,6 +103,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,4 +190,5 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
