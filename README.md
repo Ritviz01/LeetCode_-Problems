@@ -109,6 +109,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -144,6 +145,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0535-encode-and-decode-tinyurl](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 ## Database
