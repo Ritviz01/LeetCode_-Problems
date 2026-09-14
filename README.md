@@ -104,6 +104,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
 | [0804-unique-morse-code-words](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0804-unique-morse-code-words) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1720-decode-xored-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1920-build-array-from-permutation) |
@@ -171,6 +172,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0136-single-number) |
+| [1720-decode-xored-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1720-decode-xored-array) |
 ## Tree
 |  |
 | ------- |
