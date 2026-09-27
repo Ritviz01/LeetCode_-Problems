@@ -6,7 +6,7 @@ public:
         vector<int>leftSum(n,0);
         vector<int>ans(n,0);
 
-        int a,b;
+        
         for( int i = 1 ;i<n;i++){
             leftSum[i]  =  leftSum[i-1] + nums[i-1];
         }
