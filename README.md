@@ -76,6 +76,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1768-merge-strings-alternately](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1859-sorting-the-sentence](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -193,6 +194,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -204,4 +206,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
