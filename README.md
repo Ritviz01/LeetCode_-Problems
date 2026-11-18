@@ -81,6 +81,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3280-convert-date-to-binary) |
@@ -113,6 +114,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2574-left-and-right-sum-differences](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/3731-find-missing-elements) |
@@ -210,4 +212,8 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1859-sorting-the-sentence) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
