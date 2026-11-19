@@ -123,6 +123,7 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -216,4 +217,16 @@ If this repository helps you in your LeetCode journey, consider giving it a star
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ritviz01/LeetCode_-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
